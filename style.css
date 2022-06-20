@@ -9,15 +9,15 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: #008787;
+    background-color: #2ac3a2;
 }
 
 h1 {
-    color: #d1ffee
+    color: #e3fff3
 }
 
 p {
-    color: #b3ffe3
+    color: #88ffd1
 }
 
 button {
@@ -48,7 +48,6 @@ button {
 #counter {
     display: flex;
 }
-
 
 #currentNumber {
     display: flex;
